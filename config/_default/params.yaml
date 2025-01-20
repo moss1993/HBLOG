@@ -36,11 +36,12 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 数字云居民网|让一部分人先看到新世界。
+    逝者如斯夫，不舍昼夜，锲而不舍。'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
