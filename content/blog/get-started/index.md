@@ -1,6 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: 🎉 最新2025版开通汇丰Trade25详细攻略教程
+summary: 2025汇丰最新活动，对于港美股新用户来说非常友好，最高可以获得Apple 1000港元礼品卡。
 date: 2023-10-27
 
 # Featured image
@@ -18,69 +18,39 @@ tags:
   - Markdown
 ---
 
-Welcome 👋
+Welcome，朋友们大家好，这篇文章拖了很久，其实初一就准备写了，一直拖延，祝大家新年快乐呀！ 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## 前置条件
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. 开通了汇丰香港账户的朋友
+2. 年龄要求 **汇丰Trade25 不只限于18–25岁，35岁或以下都可以于2025年12月31日或之前加入！**
+3. 立即登录 ** HSBC HK Easy Invest app ** ，加入Trade25。
+4. 在汇丰流动理财App上面修改地址为你身份证上的地址
+5. 在汇丰流动理财App上 上传地址证明-你的身份证照片正反面
+6. 等待汇丰审核通知大概半个月的样子，成功了会短信通知你。
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-### Get Started
+### 开始使用,简单3步，立即体验$0佣金股票交易
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+A 下载HSBC HK Easy Invest app
+B 登录应用程序，点选左上方的“选单”，然后选择“Trade25”
+C 您已经准备就绪！立即体验免佣金股票交易
 
-## Crowd-funded open-source software
+## 收费详情
+![QQ_1739110197908](https://github.com/user-attachments/assets/23ad7cfa-42f2-41e6-a9dc-d2fcd6fbb8aa)
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+### 汇丰Trade25优势：
+$0股票佣金，轻松买卖港股、美股和中国A股
+$0平台服务费
 
-## Ecosystem
+如果您以联名账户加入汇丰Trade25，第一及第二账户持有人均可享每月以$0佣金买卖高达港币250,000元的股票。所有交易将计入第一账户持有人的交易金额。当每月交易金额超出港币250,000元，所有联名账户持有人其后所作出的股票交易将须缴付标准经纪佣金。
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+举例而言，客户A持有单名投资账户，并以联名投资账户加入汇丰Trade25，而客户B为该联名账户的第二账户持有人。此情况下，其中一人于联名账户作出的股票交易将连同客户A于单名账户的交易计入客户A的交易金额。如每月交易金额低于或等于港币250,000元，他们将毋须缴付任何经纪佣金；一旦超过港币250,000元，客户A及B须为其后于联名账户作出的交易缴付标准经纪佣金，同时客户A亦须为其于单名账户的股票交易缴付费用。
 
-## Inspiration
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
 
-## Features
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
